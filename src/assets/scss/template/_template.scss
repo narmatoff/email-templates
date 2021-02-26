@@ -5,9 +5,11 @@
 body,
 html, 
 .body {
-  background: #f3f3f3 !important;
+  background: #000000 !important;
 }
-
+table.container {
+    background: #F6F7F8;
+}
 .container.header {
   background: #f3f3f3;
 }
