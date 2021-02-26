@@ -1,4 +1,4 @@
-# SYNERGY Email Templates
+# SYNERGY Email Templates (ZURB Foundation for emails framework)
 
 Шаблоны писем после сборки лежат в директории dist:
 
